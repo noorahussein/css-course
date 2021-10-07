@@ -1,0 +1,26 @@
+.mya1,
+.mya2,
+.mya3{
+    font-size: 30px;
+    width: 400px;
+    padding: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+   margin-left: 50px; 
+   
+}
+
+.mya1{
+    background-color: rgb(197, 137, 253);
+    color: black;
+    margin-top: 50px;
+}
+
+.mya2{
+    background-color: rgb(63, 2, 99);
+    color: rgb(255, 255, 255);
+}
+
+.mya3{
+    background-color: rgb(151, 151, 151);
+    color: rgb(255, 255, 255);
+}
