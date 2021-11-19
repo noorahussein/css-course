@@ -1,0 +1,33 @@
+
+div
+{
+    display: inline-block;
+    padding: 25px;
+    width: 300px;
+    margin: 9px;
+}
+
+.div1
+{
+    border: 5px solid red;
+    height: 300px;
+
+}
+.div2
+{
+    border-right: 5px dotted red;
+    border-left: 5px dashed red;
+    background-color: purple;
+    height: 290px;
+}
+.div3
+{
+    border-top: 6px dashed red;
+    border-bottom: 5px solid red;
+    background-color: #a174a1;
+    height: 320px;
+}
+.div2 ,.div3
+{
+    color: white;
+}
