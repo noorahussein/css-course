@@ -1,0 +1,57 @@
+/* vaild */
+._my-div{
+    color: red;
+   
+}
+
+
+/* vaild */
+.-my-div{
+    color: blue;
+  
+}
+
+
+/*Not vaild */
+.12my-div{
+    color: blue;
+
+}
+
+
+/*Not vaild */
+.% my-div{
+    color: blue;
+   ;
+}
+
+
+/*Not vaild */
+.@my-div{
+    color: blue;
+ 
+}
+
+
+/*Not vaild */
+.my @div{
+    color: blue;
+  
+}
+
+
+
+/* vaild */
+._my78div{
+    color: pink;
+  
+}
+
+
+
+/* vaild */
+.-div{
+    color: yellow;
+    
+ 
+}
